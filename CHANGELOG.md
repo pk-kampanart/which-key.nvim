@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/folke/which-key.nvim/compare/v1.5.1...v1.5.2) (2023-07-28)
+
+
+### Bug Fixes
+
+* call config in issue template ([#489](https://github.com/folke/which-key.nvim/issues/489)) ([09a8188](https://github.com/folke/which-key.nvim/commit/09a8188224dc890618dfbc961436b106d912c2c1))
+
 ## [1.5.1](https://github.com/folke/which-key.nvim/compare/v1.5.0...v1.5.1) (2023-07-15)
 
 
